@@ -19,3 +19,4 @@
 /public/assets/*
 Gemfile.lock
 .mobydock.env
+.vagrant
